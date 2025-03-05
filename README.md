@@ -1,16 +1,14 @@
-## Hi there 👋
+> # Welcome to my profile 🍀
+> ## My projects 🧩
+* [Giveaway](https://discord.gg/HrwY7Fsea2) — Simple GiveawayBot for Discord server
 
+> ## Langugages & Tools & Code Editors
+![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
+![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
 
-**DevXoren/devxoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+> ## Statistics
+![Stat](https://github-readme-stats.vercel.app/api?username=devxoren&show_icons=true&theme=merko)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=devxoren&layout=compact&theme=merko)
