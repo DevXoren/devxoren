@@ -13,4 +13,3 @@
 > ## Statistics
 ![Stat](https://github-readme-stats.vercel.app/api?username=devxoren&show_icons=true&theme=merko)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=devxoren&layout=compact&theme=merko)
-1
