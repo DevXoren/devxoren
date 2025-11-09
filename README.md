@@ -1,7 +1,6 @@
 > # Welcome to my profile 🍀
 > ## My projects 🧩
-* [Giveaway](https://discord.gg/HrwY7Fsea2) — Simple GiveawayBot for Discord server
-* [SyntaxSage](https://github.com/destro1t/SyntaxSage) — SyntaxSage: The Future of Code Editing
+* [Giveaway](https://discord.com/oauth2/authorize?client_id=1329527632987164775) — GiveawayBot for Discord servers
 
 > ## Langugages & Tools & Code Editors
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
