@@ -2,7 +2,7 @@
 > ## My projects 🧩
 * [Giveaway](https://discord.com/oauth2/authorize?client_id=1329527632987164775) — GiveawayBot for Discord servers
 
-> ## Langugages & Tools & Code Editors
+> ## Langugages & Tools
 ![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
 ![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
