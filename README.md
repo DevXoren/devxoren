@@ -1,14 +1,3 @@
 > # Welcome to my profile 🍀
 > ## My projects 🧩
-* [Giveaway](https://discord.com/oauth2/authorize?client_id=1329527632987164775) — GiveawayBot for Discord servers
-
-> ## Langugages & Tools
-![TypeScript](https://shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
-![NodeJS](https://shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js)
-![JavaScript](https://shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![Python](https://shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
-![Mongo.db](https://shields.io/badge/-Mongo.db-090909?style=for-the-badge&logo=mongodb)
-
-> ## Statistics
-![Stat](https://github-readme-stats.vercel.app/api?username=devxoren&show_icons=true&theme=merko)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=devxoren&layout=compact&theme=merko)
+* [Niako 2.0](https://discord.com/oauth2/authorize?client_id=1459926647091232859&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fniako.fun%2Fcallback&integration_type=0&scope=bot+guilds+identify+applications.commands) — A multi-functional bot with private rooms, music, logging, and personalized banners. Everything you need to perfectly manage your Discord server.
